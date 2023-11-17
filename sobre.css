@@ -1,0 +1,57 @@
+body {
+    width:940px
+    margin-right:auto;
+    +fint-size:16px;
+    +line-height:1.5;
+    font-family:`helvetica','lucida grande', sans-serif;
+    color:#3D3D3D;
+}
+.titulo{
+padding:10px;
+font: size 32px;
+background-color: #E1EDF2;
+}
+.subtitulo{
+border-bottom: 2px solid black;
+}
+figure{
+margin: 30px;
+padding: 15px;
+text-align: center;
+background-color: whitesmoke;
+border: 1px solid lightgrey;
+}
+figcaption{
+margin-top: 10px;
+}
+.matriz-musicdot{
+width: 550px;
+margin-left:auto ;
+margin-right: auto;
+}
+.familia-topfeln{
+    width: 275px;
+    float: right;
+}
+figure img{
+    width: 100%;
+}
+.contato_subtitulo{
+    display: inline;
+}
+.contato_secao{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+.contato_secao--telefone{
+margin-left: 32px;
+}
+.cantato_info{
+    margin: 16px 024px;
+    padding-left: 32px;
+}
+.contato_info-titulo
+.contato_info-descricao{
+    display: inline;
+}
